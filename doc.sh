@@ -3,7 +3,7 @@
 #  Created by wzxjiang on 17/1/5.
 #  Copyright © 2016年 wzxjiang. All rights reserved.
 #
-#  https://github.com/Wzxhaha/visdoc
+#  https://github.com/Wzxhaha/doc
 #
 #  Permission is hereby granted, free of charge, to any person obtaining a copy
 #  of this software and associated documentation files (the "Software"), to deal
